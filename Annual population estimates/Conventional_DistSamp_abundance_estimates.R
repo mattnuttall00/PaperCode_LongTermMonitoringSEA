@@ -1,7 +1,7 @@
 
 ### This script is the analysis of line transect data from Keo Seima Wildlife Sanctuary for the years 2010, 2011, 2013, 2014, 2016, 2018, and 2020. The data belong to WCS Cambodia. The anlaysis has been done by Matt Nuttall (m.n.nuttall1@stir.ac.uk / mattnuttall00@gmail.com) in collaboration with Olly Griffin from WCS (ogriffin@wcs.org)
 
-# The metadata are stored publicly on the Global Biodiversity Information Facility and can be found here: https://doi.org/10.15468/37thhj. Due to the sensitive nature of the data (locations of endangered species), if you would like access to the raw data please get in touch with Olly Griffin or WCS Cambodia. 
+# The metadata, plus raw data for primates, green peafowl, and red muntjac, are stored publicly on the Global Biodiversity Information Facility and can be found here: https://doi.org/10.15468/37thhj. Due to the potential risks of releasing precise location data for species that are locally rare, with limited distribution, that are possible targets for poachers, data for Gaur, Banteng, Eld's deer, and Sambar are not included in the public dataset, but are available on request from Olly Griffin or WCS Cambodia. 
 
 # The analytical approach is based on an assessment of a set of different approaches (see Analytical_aproach_test_DS script). The approach that has been decided upon, in agreement with WCS, is as follows:
 

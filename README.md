@@ -2,7 +2,13 @@
 Code for the manuscript submitted to Conservation Science and Practice (2021) - Long-term monitoring of wildlife populations for protected area management in Southeast Asia
 
 ## Overview
-The R scripts here are the full scripts used for all the different analyses (details below). However, none of the scripts will run as we have not provided the raw data that are required for the analyses. This is because the data are sensitive - they contain the locations of rare and endangered species. The metadata are available on the Global Biodiversity Information Facility, and can be found here: https://doi.org/10.15468/37thhj. If you would like access to the raw data, please contact Olly Griffin from WCS Cambodia on ogriffin@wcs.org. Alternatively please get in touch with WCS Cambodia.
+
+Corresponding author: Matt Nuttall (mattnuttall00@gmail.com)
+
+The R scripts here are the full scripts used for all the different analyses (details below). However, we have not provided the raw data that are required for the analyses in this repository. The metadata, plus raw data for primates, green peafowl, and red muntjac, are stored publicly on the Global Biodiversity Information Facility and can be found here: https://doi.org/10.15468/37thhj. Due to the potential risks of releasing precise location data for species that are locally rare, with limited distribution, that are possible targets for poachers, data for Gaur, Banteng, Eld's deer, and Sambar are not included in the public dataset, but are available on request from Olly Griffin / WCS Cambodia. 
+
+These scripts are provided largely for the purposes of transparency and to hopefully be useful for researchers conducting similar analyses. If you would like access to any of the required input files, please contact either Matt Nuttall (mattnuttall00@gmail.com) or Olly Griffin (ogriffin@wcs.org).
+
 
 The analyses presented in the paper were conducted by Matt Nuttall, with support from Olly Griffin, Rachel Fewster, and Nils Bunnefeld. For any questions relating to the analyses, please contact Matt Nuttall (mattnuttall00@gmail.com).
 
