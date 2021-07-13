@@ -9,10 +9,10 @@ The analyses presented in the paper were conducted by Matt Nuttall, with support
 ## Analyses
 
 ### Annual population estimates
-For the script used to produce the population point estimates, see the script "Conventional_DistSamp_abundance_estimates.R". This anlysis uses a conventional distance sampling framework. There is a second script in the folder titled "Analytical_approach_test_CDS.R". This script tested the incusion and exclusion of the geographical priority strata that are a feature in some of the years.
+For the code used to produce the population point estimates, see the script "Conventional_DistSamp_abundance_estimates.R". This anlysis uses a conventional distance sampling framework. There is a second script in the folder titled "Analytical_approach_test_CDS.R". This script tested the incusion and exclusion of the geographical priority strata that are a feature in some of the years.
 
 ### Population trends
-For the script that was used to produce the temporal population trends, see the script "Population_trends.R". This anlysis uses the detection function models from the above point estimate analysis, followed by Generalized Additive Models and bootstrapping to estimate long-term population trends. There is a second script in the folder titled "Rfunc.R". This script was written by Prof Rachel Fewster (co-author), and edited by Matt Nuttall. This script is required to run the Population_trends.R script. 
+For the code used to produce the temporal population trends, see the script "Population_trends.R". This anlysis uses the detection function models from the above point estimate analysis, followed by Generalized Additive Models and bootstrapping to estimate long-term population trends. There is a second script in the folder titled "Rfunc.R". This script was written by Prof Rachel Fewster (co-author), and edited by Matt Nuttall. This script is required to run the Population_trends.R script. 
 
 ### Spatial models
-For the script used to produce the relative abundance maps, see the script "Density_surface_models.R". 
+For the code used to produce the relative abundance maps, see the script "Density_surface_models.R". 
