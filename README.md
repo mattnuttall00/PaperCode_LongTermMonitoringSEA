@@ -7,7 +7,7 @@ Corresponding author: Matt Nuttall (mattnuttall00@gmail.com)
 
 The R scripts here are the full scripts used for all the different analyses (details below). However, we have not provided the raw data that are required for the analyses in this repository. The metadata, plus raw data for primates, green peafowl, and red muntjac, are stored publicly on the Global Biodiversity Information Facility and can be found here: https://doi.org/10.15468/37thhj. Due to the potential risks of releasing precise location data for species that are locally rare, with limited distribution, that are possible targets for poachers, data for Gaur, Banteng, Eld's deer, and Sambar are not included in the public dataset, but are available on request from Olly Griffin / WCS Cambodia. 
 
-These scripts are provided largely for the purposes of transparency and to hopefully be useful for researchers conducting similar analyses. If you would like access to any of the required input files, please contact either Matt Nuttall (mattnuttall00@gmail.com) or Olly Griffin (ogriffin@wcs.org).
+These scripts are provided largely for the purposes of transparency and to hopefully be useful for researchers conducting similar analyses. If you would like access to any of the required input files, please contact either Matt Nuttall (mattnuttall00@gmail.com) or Olly Griffin (ogriffin@wcs.org) / Cain Agger (cagger@wcs.org). Up-to-date contact details for WCS Cambodia should be posted on the GBIF database linked above.
 
 
 The analyses presented in the paper were conducted by Matt Nuttall, with support from Olly Griffin, Rachel Fewster, and Nils Bunnefeld. For any questions relating to the analyses, please contact Matt Nuttall (mattnuttall00@gmail.com).
