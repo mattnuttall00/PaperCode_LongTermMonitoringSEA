@@ -1,5 +1,6 @@
-# PaperCode_LongTermMonitoringSEA
-Code for the manuscript submitted to Conservation Science and Practice (2021) - Long-term monitoring of wildlife populations for protected area management in Southeast Asia
+# R code for the analyses within the paper titled "Long-term monitoring of wildlife populations for protected area management in Southeast Asia"
+
+Code for the manuscript published in Conservation Science and Practice (2022) - Long-term monitoring of wildlife populations for protected area management in Southeast Asia. The publication can be found here: https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.614
 
 ## Overview
 
@@ -22,3 +23,7 @@ For the code used to produce the temporal population trends, see the script "Pop
 
 ### Spatial models
 For the code used to produce the relative abundance maps, see the script "Density_surface_models.R". 
+
+## License
+
+The contents of this repository are covered by the MIT license (Open Source Initiative compatible). Please see the "LICENSE.txt" file for details. 
